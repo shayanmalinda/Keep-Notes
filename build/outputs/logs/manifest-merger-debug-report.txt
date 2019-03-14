@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f84b18f08e3ad304da6a08aec37f05fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shayan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9c9251f1b827dd222bc18cc5f4260a4b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/37ffe79848e3869c9beb70c8a0563648/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6fe1bca9c54a37bc256af15d3ac8ec76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9485747ba0b4799efff658ee19003927/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9c56b95f17a73de2658c0d608a1fe114/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e8ca2f5e619c37ee1420f0330ab7533c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d699c780c53143c79e485e2f8c80aa1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/79409ffdda79b2f2133eded26b3f065f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/52bc14fe61dc661ebe92a270fc89252b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9251a2e2f8ab0e55921193817018bb0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e69bfbe5b3611e38072dedb7794903c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3923149bced2b746a7894a8aed88b215/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b045d2f7b3f554c2e7cc1dd936b6067b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bb9aea2e62cf468c0356436bcac79e25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f2419d570036cdfba8364ada52780cb6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c8b0b43e86aedccf00cd9214ca4bbe8d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4c3111fc237c3d8a1e0f232e2f79746b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/593f92db2f66a319514546a051d9d1cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/01e94c247f8847568f3da7ae53973d6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/80a6c7c899cc263287357bb56dc385a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/18190fab1ab525fc1d86a1700d0a763b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0267eb73f099bd1e6eb31fb73bb14881/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8cd3894303c56c5b35082566d17b397c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f64b994071fbad658eff92889dbefe1e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/458a7739a1b9089cf3d8851b4cf5f0b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6b468eba114363d63003d51fc4539aef/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shayan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9c9251f1b827dd222bc18cc5f4260a4b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shayan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9c9251f1b827dd222bc18cc5f4260a4b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f2419d570036cdfba8364ada52780cb6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f2419d570036cdfba8364ada52780cb6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c8b0b43e86aedccf00cd9214ca4bbe8d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c8b0b43e86aedccf00cd9214ca4bbe8d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f2419d570036cdfba8364ada52780cb6/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.im.keepnotes.editnoteActivity
+ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:12:9-63
+	android:name
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:12:19-51
+activity#com.im.keepnotes.newnoteActivity
+ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:13:9-53
+	android:name
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:13:19-50
+activity#com.im.keepnotes.viewnotesActivity
+ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:14:9-55
+	android:name
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:14:19-52
+activity#com.im.keepnotes.MainActivity
+ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f84b18f08e3ad304da6a08aec37f05fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f84b18f08e3ad304da6a08aec37f05fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shayan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9c9251f1b827dd222bc18cc5f4260a4b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shayan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9c9251f1b827dd222bc18cc5f4260a4b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/37ffe79848e3869c9beb70c8a0563648/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/37ffe79848e3869c9beb70c8a0563648/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6fe1bca9c54a37bc256af15d3ac8ec76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6fe1bca9c54a37bc256af15d3ac8ec76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9485747ba0b4799efff658ee19003927/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/9485747ba0b4799efff658ee19003927/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9c56b95f17a73de2658c0d608a1fe114/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9c56b95f17a73de2658c0d608a1fe114/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e8ca2f5e619c37ee1420f0330ab7533c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e8ca2f5e619c37ee1420f0330ab7533c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d699c780c53143c79e485e2f8c80aa1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d699c780c53143c79e485e2f8c80aa1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/79409ffdda79b2f2133eded26b3f065f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/79409ffdda79b2f2133eded26b3f065f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/52bc14fe61dc661ebe92a270fc89252b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/52bc14fe61dc661ebe92a270fc89252b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9251a2e2f8ab0e55921193817018bb0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9251a2e2f8ab0e55921193817018bb0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e69bfbe5b3611e38072dedb7794903c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e69bfbe5b3611e38072dedb7794903c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3923149bced2b746a7894a8aed88b215/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3923149bced2b746a7894a8aed88b215/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b045d2f7b3f554c2e7cc1dd936b6067b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b045d2f7b3f554c2e7cc1dd936b6067b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bb9aea2e62cf468c0356436bcac79e25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bb9aea2e62cf468c0356436bcac79e25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f2419d570036cdfba8364ada52780cb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f2419d570036cdfba8364ada52780cb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c8b0b43e86aedccf00cd9214ca4bbe8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c8b0b43e86aedccf00cd9214ca4bbe8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4c3111fc237c3d8a1e0f232e2f79746b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4c3111fc237c3d8a1e0f232e2f79746b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/593f92db2f66a319514546a051d9d1cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/593f92db2f66a319514546a051d9d1cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/01e94c247f8847568f3da7ae53973d6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/01e94c247f8847568f3da7ae53973d6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/80a6c7c899cc263287357bb56dc385a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/80a6c7c899cc263287357bb56dc385a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/18190fab1ab525fc1d86a1700d0a763b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/18190fab1ab525fc1d86a1700d0a763b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0267eb73f099bd1e6eb31fb73bb14881/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0267eb73f099bd1e6eb31fb73bb14881/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8cd3894303c56c5b35082566d17b397c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8cd3894303c56c5b35082566d17b397c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f64b994071fbad658eff92889dbefe1e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f64b994071fbad658eff92889dbefe1e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/458a7739a1b9089cf3d8851b4cf5f0b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/shayan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/458a7739a1b9089cf3d8851b4cf5f0b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6b468eba114363d63003d51fc4539aef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/shayan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/6b468eba114363d63003d51fc4539aef/AndroidManifest.xml:20:5-44
+INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+		ADDED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shayan/AndroidStudioProjects/KeepNotes/app/src/main/AndroidManifest.xml

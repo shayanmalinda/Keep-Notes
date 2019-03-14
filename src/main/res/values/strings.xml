@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Keep Notes</string>
+    <string name="view_notes">View Notes</string>
+    <string name="add_note">New Note</string>
+    <string name="exit">Close</string>
+    <string name="save">Save</string>
+    <string name="strings">Strings</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="enteryourtext">Enter Your Text Below</string>
+</resources>
