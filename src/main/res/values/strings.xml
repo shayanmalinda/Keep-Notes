@@ -7,5 +7,6 @@
     <string name="strings">Strings</string>
     <string name="delete">Delete</string>
     <string name="edit">Edit</string>
-    <string name="enteryourtext">Enter Your Text Below</string>
+    <string name="enteryourtext">Enter Your Text</string>
+    <string name="edityourtext">Edit Your Text</string>
 </resources>

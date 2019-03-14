@@ -5,13 +5,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".viewnotesActivity"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@color/colorPrimary">
 
-    <ListView
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/notes_list"
-        android:divider="@color/colorPrimary"
-        ></ListView>
+        android:padding="15dp">
 
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/notes_list"
+            android:divider="@color/colorPrimary"
+            android:dividerHeight="10.0sp"/>
+        />
+    </LinearLayout>
 </LinearLayout>

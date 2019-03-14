@@ -77,7 +77,7 @@ public class viewnotesActivity extends AppCompatActivity {
             }
         }
 
-        int layout = android.R.layout.simple_list_item_1;
+        int layout = R.layout.list_item;
 
 
         ArrayAdapter<String> adapter = new ArrayAdapter<>(this,layout,list);

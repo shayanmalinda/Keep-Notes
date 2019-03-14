@@ -630,6 +630,7 @@ drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable button_background
+drawable color_cursor
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable icon
@@ -645,6 +646,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable rounded_corner
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -834,6 +836,7 @@ layout activity_editnote
 layout activity_main
 layout activity_newnote
 layout activity_viewnotes
+layout list_item
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -890,6 +893,7 @@ string add_note
 string app_name
 string delete
 string edit
+string edityourtext
 string enteryourtext
 string exit
 string save

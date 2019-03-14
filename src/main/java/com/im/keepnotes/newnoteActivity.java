@@ -31,21 +31,6 @@ public class newnoteActivity extends AppCompatActivity {
             etNote.setText(note);
         }
     }
-//    @Override
-//    public boolean onKeyDown(int keyCode, KeyEvent event)
-//    {
-//        //replaces the default 'Back' button action
-//        if(keyCode==KeyEvent.KEYCODE_BACK)
-//        {
-//            //do whatever you want the 'Back' button to do
-//            //as an example the 'Back' button is set to start a new Activity named 'NewActivity'
-//            this.startActivity(new Intent(newnoteActivity.this,MainActivity.class));
-//        }
-//
-//        overridePendingTransition(0,0);
-////        overridePendingTransition(R.anim.abc_fade_in,R.anim.abc_fade_out);
-//        return true;
-//    }
 
     public void save(View v){
 
